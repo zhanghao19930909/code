@@ -1,0 +1,5 @@
+object ccccc {
+
+  println("ssss")
+
+}
