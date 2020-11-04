@@ -1,0 +1,3 @@
+class aaaa {
+  println("aaaa")
+}
